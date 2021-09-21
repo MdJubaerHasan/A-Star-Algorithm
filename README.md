@@ -1,2 +1,2 @@
-# A-Algorithm
+# A*Algorithm
 A* path finding algorithm
